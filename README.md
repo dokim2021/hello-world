@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi there!
+
+My name is Daniel Kim.
